@@ -1,7 +1,6 @@
 package guia13;
 
 import java.util.Scanner;
-import java.util.Vector;
 
 public class Guia13 {
 
